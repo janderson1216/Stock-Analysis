@@ -6,6 +6,12 @@ In efforts to improve the code, this project required code to be refactored to r
 ## Results
 The analysis is well described with screenshots and code (4 pt).
 
+![2017_Stock_Performance](Resources/2017_Stock_Performance.png)
+![2018_Stock_Performance](Resources/2018_Stock_Performance.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017..png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018..png)
+
+
 ## Summary
 
 ### Advantages of refactoring code in general
