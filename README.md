@@ -12,7 +12,6 @@ Here is what we found:
 In 2017, all stocks, except TERP had a positive return. DQ outperformed all other stocks with a 199.4% return followed by SEDG at 184.5% 
 
 ![2017_Stock_Performance](Resources/2017_Stock_Performance.png)
-
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017..png)
 
 After Factoring--"This code ran in 0.1679688 seconds for the year 2017"
@@ -21,7 +20,6 @@ Before refactoring--"This code ran in 0.171875 seconds for the year 2018. This i
 In 2018, all but two stocks (ENPH and RUN) had a negetive return. DQ was the stock that suffered the most, followed by JKS. ENPH and RUN both had over 80% return. 
 
 ![2018_Stock_Performance](Resources/2018_Stock_Performance.png)
-
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 After refactoring--"This code ran in 0.171875 seconds for the year 2018. T
